@@ -75,8 +75,8 @@ justify-content: center;
      margin: 1rem;
  }
      .hero2{
-       height: 225px;
-       width: 304px;
+       max-height: 225px;
+       max-width: 304px;
         
      }
      
@@ -122,8 +122,8 @@ justify-content: center;
    justify-content: center;
 }
 .image-ill2{
- height: 241px;
-width: 320px;
+ max-height: 241px;
+max-width: 320px;
 
 }
  .productive h2{
