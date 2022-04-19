@@ -185,8 +185,9 @@ flex-direction: column;
 line-height: 1;
 
 }
-.flyo-text {
+.flyo-text a{
   color: #3DA08F;
+  text-decoration: underline;
   
 }
 .image-ill2{
