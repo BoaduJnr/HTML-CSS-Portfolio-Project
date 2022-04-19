@@ -15,3 +15,7 @@
 ### Add your name here
 1. BoaduJnr
 2. kyei-baffour
+
+
+## Project deployment link
+- https://boadujnr.github.io/HTML-CSS-Portfolio-Project/
